@@ -18,7 +18,7 @@ public class Movie {
     private Integer count;
     private String image;
 
-    public Movie () {
+    public Movie() {
 			
     }
 
